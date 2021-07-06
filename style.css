@@ -113,6 +113,7 @@ background-size: cover;
     background-size: cover;
     height: 80%;
     width: auto;
+    margin-bottom: 5%;
       
 }
 
@@ -121,3 +122,27 @@ background-size: cover;
     padding: 150px;
 
 }
+.like-area{
+    height: 200px;
+    width: 100%;
+    margin-bottom: 5%;
+      
+}
+
+.youtube-like{
+    margin: 50px 100px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-left:60px ;
+    margin-right: 60px;
+    box-shadow: 10px 10px 40px grey;;
+
+}
+.youtube-cunt{
+    padding: 50px;
+    text-align: center;
+    display: inline-block;
+
+}
+
