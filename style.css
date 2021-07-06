@@ -123,16 +123,14 @@ background-size: cover;
 
 }
 .like-area{
-    height: 200px;
+    height: 160px;
     width: 100%;
-    margin-bottom: 5%;
+    margin-bottom: 7%;
       
 }
 
-.youtube-like{
-    margin: 50px 100px;
+.youtube-like{ 
     text-align: center;
-    margin: 0 auto;
     border-radius: 20px;
     margin-left:60px ;
     margin-right: 60px;
@@ -144,5 +142,24 @@ background-size: cover;
     text-align: center;
     display: inline-block;
 
+}
+.footer{
+    background-color: #575757;
+    padding-bottom: 1px;
+}
+.footer h3{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.footer p{
+    color: white;
+    text-align: center;
+}
+.footer-h3{
+    color:#74b9ff ;
+}
+.footer-p{
+    color: #74b9ff;
 }
 
