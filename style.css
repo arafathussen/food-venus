@@ -46,3 +46,10 @@ p{
 .half-width img{
     width: 80%;
 }
+.about-content{
+    background-image: url(./images/mid-banner.jpg);
+    background-size: cover;
+    
+    
+   
+}
