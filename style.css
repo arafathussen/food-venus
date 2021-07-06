@@ -54,7 +54,7 @@ background-size: cover;
 }
 .about-h1{
     font-size: 30px;
-    padding-top: 60px;
+    padding-top: 20%;
 }
 .about-p{
     margin-right: 30%;
@@ -62,4 +62,62 @@ background-size: cover;
 .about-img img{
     width: 50%;
     padding-left: 30%;
+    padding-top: 10%;
+    margin-bottom:0;
+}
+.recipies-t{
+    text-align: center;
+    color: #575757;
+
+}
+.recipies-p p{
+    margin-left: 4%;
+    margin-right: 4%;
+
+
+}
+.recipies-p h3{
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 22px;
+    color:#575757 ;
+
+
+}
+.recipies{
+    padding:20px;
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px grey;
+
+}
+.recipies-item{
+ margin-left: 5%;
+ margin-right: 5%;
+ border-radius: 20px;
+ box-shadow: 10px 10px 40px grey;
+ 
+ 
+}
+.recipies-item img{
+    padding-top: 10px;
+    padding-left: 7px;
+    width: 300px;
+    border-radius: 20px;
+}
+.offer{
+    background-image: url(./images/last-banner.jpg);
+    background-repeat: no-repeat center fixed;
+    background-size: cover;
+    height: 80%;
+    width: auto;
+      
+}
+
+.offer-item{
+    margin-left: 5%;
+    padding: 150px;
+
 }
