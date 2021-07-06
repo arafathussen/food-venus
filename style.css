@@ -47,9 +47,19 @@ p{
     width: 80%;
 }
 .about-content{
-    background-image: url(./images/mid-banner.jpg);
-    background-size: cover;
-    
-    
-   
+background-image: url(./images/Frame\ 57.jpg);
+background-repeat: no-repeat center fixed;
+background-size: cover;
+
+}
+.about-h1{
+    font-size: 30px;
+    padding-top: 60px;
+}
+.about-p{
+    margin-right: 30%;
+}
+.about-img img{
+    width: 50%;
+    padding-left: 30%;
 }
